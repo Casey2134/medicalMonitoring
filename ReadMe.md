@@ -1,0 +1,1 @@
+This is a project built for school that simulates a possible solution for monitoring patients. It monitors several data types for each patient and when that data type becomes dangerous it queues an alert. Then a "nurse" handles the alert and dequeues it from the list. The queue is a FIFO list.
